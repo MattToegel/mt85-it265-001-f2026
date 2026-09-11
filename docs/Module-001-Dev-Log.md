@@ -14,6 +14,10 @@
 - [x] Complete github setup
 - [x] Complete Dev Log
 - [ ] Studio Brainstorm
+<img width="348" height="48" alt="image" src="https://github.com/user-attachments/assets/71a4c7b6-624a-44be-9891-a6afbef293c0" />
+
+<img width="196" height="228" alt="Screenshot 2026-08-26 195057" src="https://github.com/user-attachments/assets/fc6cf0c3-0c67-418a-91e6-a5dc6455ca38" />
+
 
 #### Progress
 - **What I accomplished**:
